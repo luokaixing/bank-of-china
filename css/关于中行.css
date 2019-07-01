@@ -1,0 +1,21 @@
+.zh1{
+	width:720px;
+	height:200px;
+}
+.zh101{
+	width:240px;
+	height:170px;
+	display:inline-block;
+}
+.zh102{
+	width:240px;
+	height:170px;
+	display:inline-block;
+	padding-right:10px;
+	border-right:1px dashed #cdcdcd;
+}
+.zh103{
+	width:200px;
+	height:170px;
+	display:inline-block;
+}

@@ -1,0 +1,91 @@
+.gr{
+	width:720px;
+	/*border:1px solid red;*/
+	margin-top:10px;
+	position:relative;
+
+}
+.gr1{
+	margin-top:20px;
+	width: 350px;
+	height:200px;
+}
+.gr2{
+	width: 350px;
+	height:200px;
+	position: absolute;
+	top:-20px;
+	right:10px;
+}
+.gr3{
+	margin-top:20px;
+	width: 220px;
+	height:300px;
+	/*border:1px solid red;*/
+}
+.gr4{
+	width: 220px;
+	height:300px;
+	/*border:1px solid red;*/
+	position:absolute;
+	top:240px;
+	left:240px;
+}
+.gr5{
+	width: 220px;
+	height:300px;
+	/*border:1px solid red;*/
+	position:absolute;
+	top:240px;
+	left:480px;
+}
+.gr01{
+	width:720px;
+	height:250px;
+	/*border:1px solid red;*/
+}
+.gre{
+	width:400px;
+	height:150px;
+	margin-left:40px;
+	margin-top:30px;
+}
+.gre1{
+	width:400px;
+	height:250px;
+	position:absolute;
+	top:580px;
+	right:0px;
+	/*border:1px solid red;*/
+}
+.wai {
+           width:720px;height:200px;/*margin:50px auto;*/
+           overflow: hidden;
+           
+           position:relative;
+}
+        .wai2{
+          width:100%;height:100%;
+        }
+        .wai1{
+          color:#fff;
+          width:720px;height:30px;
+          position:absolute;z-index:1000;
+          bottom:0;left:0;
+          text-align:center;
+          line-height: 30px;
+        }
+
+        .wai1 .wai3{
+          display:inline-block;
+          width:20px;
+          height:20px;
+          line-height:20px;
+          text-align:center;
+          background:rgba(254,254,254,0.3);
+          border-radius: 50%;
+          cursor:pointer;
+        }
+        .wai1 .wai3:hover{
+          background:black;
+        }

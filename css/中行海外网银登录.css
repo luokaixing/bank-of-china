@@ -1,0 +1,19 @@
+.zhl{
+	width:980px;
+	height: 1200px;
+	border:1px solid #cdcdcd;
+	border-radius:5px;
+	margin-top:10px;
+	position:relative;
+}
+.zhl01{
+	position:absolute;
+	top:50px;
+	right:0px;
+}
+.zhl02{
+	color:red;
+	position:absolute;
+	top:60px;
+	right:80px;
+}
